@@ -16,8 +16,8 @@ Navegación Intuitiva: Barra lateral (sidebar) con enlaces internos para una nav
 Secciones Claras: 
 Contiene las siguientes secciones principales:
 -Inicio: Breve presentación y foto de perfil.
--Sobre mí: Información detallada sobre su formación académica y cursos.
--Proyectos: Listado de proyectos categorizados por tecnología (Python, HTML/CSS) con enlaces a GitHub y demostraciones en vivo (donde aplique). Utiliza el elemento <details> para un contenido colapsable.
+-Sobre mí: Información detallada sobre mi formación académica y cursos.
+-Proyectos: Listado de proyectos categorizados por tecnología (Python, HTML/CSS) con enlaces a GitHub y demostraciones en vivo.
 -Habilidades: Enumeración de conocimientos técnicos y blandos.
 -Contacto: Información de contacto y enlaces a redes sociales.
 
