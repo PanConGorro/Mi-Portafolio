@@ -13,13 +13,13 @@ Diseño Responsivo: Adaptable a diferentes tamaños de pantalla (escritorio y di
 
 Navegación Intuitiva: Barra lateral (sidebar) con enlaces internos para una navegación sencilla entre secciones, que se convierte en un menú desplegable en dispositivos móviles.
 
-Secciones Claras: 
-Contiene las siguientes secciones principales:
--Inicio: Breve presentación y foto de perfil.
--Sobre mí: Información detallada sobre mi formación académica y cursos.
--Proyectos: Listado de proyectos categorizados por tecnología (Python, HTML/CSS) con enlaces a GitHub y demostraciones en vivo.
--Habilidades: Enumeración de conocimientos técnicos y blandos.
--Contacto: Información de contacto y enlaces a redes sociales.
+Secciones Claras: <br>
+Contiene las siguientes secciones principales:<br>
+-Inicio: Breve presentación y foto de perfil.<br>
+-Sobre mí: Información detallada sobre mi formación académica y cursos.<br>
+-Proyectos: Listado de proyectos categorizados por tecnología (Python, HTML/CSS) con enlaces a GitHub y demostraciones en vivo.<br>
+-Habilidades: Enumeración de conocimientos técnicos y blandos.<br>
+-Contacto: Información de contacto y enlaces a redes sociales.<br>
 
 Iconografía: Integración de Font Awesome para mejorar la experiencia visual con iconos relevantes.
 Tecnologías Utilizadas
@@ -48,9 +48,9 @@ Estructura de Archivos:
 </details>
 -------------------------------------------------------------------
 
-Contacto
+Contacto:<br>
 Puedes contactarme a través de los siguientes medios:
 
-Email: tomasfloresdiener@gmail.com
-GitHub: PanConGorro
+Email: tomasfloresdiener@gmail.com<br>
+GitHub: PanConGorro<br>
 LinkedIn: Tomás Flores
