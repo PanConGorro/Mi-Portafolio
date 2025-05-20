@@ -39,12 +39,12 @@ Para visualizar este portafolio, simplemente ingresa al siguiente enlace: https:
 
 Estructura de Archivos:
 <details>
-├── index.html
-├── css/
-│    └── style.css
-└── assets/
-      └── img/
-        └── TomasFlores.jpg
+├── index.html <br>
+├── css/ <br>
+│    └── style.css <br>
+└── assets/ <br>
+      └── img/ <br>
+        └── TomasFlores.jpg 
 </details>
 -------------------------------------------------------------------
 
