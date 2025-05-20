@@ -37,8 +37,7 @@ Para visualizar este portafolio, simplemente ingresa al siguiente enlace: https:
 
 -------------------------------------------------------------------
 
-Estructura de Archivos
-.
+<Estructura de Archivos>
 ├── index.html
 ├── css/
 │   └── style.css
