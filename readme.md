@@ -41,11 +41,11 @@ Estructura de Archivos:
 <details>
 ├── index.html
 ├── css/
-│   └── style.css
+│    └── style.css
 └── assets/
-    └── img/
+      └── img/
         └── TomasFlores.jpg
-
+</details>
 -------------------------------------------------------------------
 
 Contacto
