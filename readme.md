@@ -43,8 +43,8 @@ Estructura de Archivos:
 ├── css/ <br>
 │    └── style.css <br>
 └── assets/ <br>
- &nbsp;&nbsp;   └── img/ <br>
-      &nbsp;&nbsp;&nbsp;└── TomasFlores.jpg 
+&nbsp;&nbsp;   └── img/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── TomasFlores.jpg 
 </details>
 -------------------------------------------------------------------
 
