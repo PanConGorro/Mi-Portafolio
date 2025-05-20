@@ -52,5 +52,4 @@ Contacto:<br>
 Puedes contactarme a través de los siguientes medios:
 
 Email: tomasfloresdiener@gmail.com<br>
-GitHub: PanConGorro<br>
-LinkedIn: Tomás Flores
+LinkedIn: [Tomás Flores](https://www.linkedin.com/in/tomás-flores-3a8516266/)
