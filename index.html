@@ -6,6 +6,9 @@
     <title>Tomás Flores</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="contenedor-grid">
@@ -58,10 +61,10 @@
               <strong>Gestor de Inventario</strong>: Script en consola para gestionar un inventario. <a href="https://github.com/PanConGorro/Gestion-de-Inventario" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a>
           </li>
           <li>
-              <strong>Conversor de divisas</strong>: Aplicación sencilla que convierte monedas. <a href="#" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a>
+              <strong>Conversor de divisas</strong>: Aplicación sencilla que convierte monedas. <a href="en-desarrollo.html" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a> <p>(En desarrollo)</p>
           </li>
           <li>
-              <strong>Gestor de tareas</strong>: Script en consola para organizar tareas diarias. <a href="#" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a>
+              <strong>Gestor de tareas</strong>: Script en consola para organizar tareas diarias. <a href="en-desarrollo.html" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a> <p>(En desarrollo)</p>
           </li>
         </ul>
       </details>
@@ -73,10 +76,10 @@
               <strong>Portafolio</strong>: Mi primer intento de portafolio personal. <a href="https://github.com/PanConGorro/Mi-Portafolio" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a> <a href="https://pancongorro.github.io/Mi-Portafolio/" target="_blank"><i class="fas fa-link"></i>Visitar</a>
           </li>
           <li>
-              <strong>Landing page de cafetería</strong>: Sitio HTML/CSS básico para práctica. <a href="#" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a>
+              <strong>Landing page de ropa</strong>: Sitio HTML/CSS básico para práctica. <a href="en-desarrollo.html" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a> <p>(En desarrollo)</p>
           </li>
           <li>
-              <strong>Formulario de contacto responsivo</strong>: Página web con formulario validado. <a href="#" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a>
+              <strong>Formulario de contacto responsivo</strong>: Página web con formulario validado. <a href="en-desarrollo.html" target="_blank"><i class="fas fa-folder-open"></i>Ver proyecto</a> <p>(En desarrollo)</p>
           </li>
         </ul>
       </details>
@@ -105,9 +108,49 @@
 
     <section id="contacto">
       <h2>Contacto</h2>
-      <p>Si queres contactarme, podes escribirme a <a href="mailto:tomasfloresdiener@gmail.com" target="_blank">tomasfloresdiener@gmail.com</a></p>
+      <div class="contacto-form-caja">
+        <p>Si queres contactarme puedes completar el siguiente formulario para enviarme un mensaje:</p>
+        <form action="https://formspree.io/f/xzzewevd" method="POST" class="contacto-form">
+          <div class="seccion-form">
+            <label for="nombre">Nombre:</label>
+          <input type="text" name="nombre" id="nombre" required>
+          </div>
+
+          <div class="seccion-form">
+            <label for="email">Email:</label>
+          <input type="email" name="email" id="email" required>
+          </div>
+          
+          <div class="seccion-form">
+            <label for="mensaje">Mensaje:</label>
+            <textarea name="mensaje" id="mensaje" rows="6" required></textarea>
+          </div>
+
+          <button type="submit" class="boton-enviar">Enviar Mensaje</button>
+        </form>
+      </div>
     </section>
   </main>
+
+  <aside class="testimonios-sidebar">
+    <section id="testimonios">
+      <h2>Testimonios</h2>
+      <div class="testimonios-grid">
+        <div class="testimonio">
+          <p>"Tomás es un programador muy dedicado y con ganas de aprender. Su trabajo es impecable y siempre busca la mejor solución."</p>
+          <span class="autor">- Juan Pérez</span>
+        </div>
+        <div class="testimonio">
+          <p>"Su atención al detalle y su capacidad para resolver problemas complejos son impresionantes. Un gusto trabajar con él."</p>
+          <span class="autor">- María Garcia</span>
+        </div>
+        <div class="testimonio">
+          <p>"Me ayudó a desarrollar mi página web y el resultado fue exactamente lo que buscaba. ¡Excelente profesional!"</p>
+          <span class="autor">- Emiliano Martinez</span>
+        </div>
+      </div>
+    </section>
+  </aside>
 
   <footer class="footer">
     <div class="redes-sociales">
