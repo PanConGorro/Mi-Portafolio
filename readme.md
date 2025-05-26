@@ -19,6 +19,7 @@ Contiene las siguientes secciones principales:<br>
 -Proyectos: Listado de proyectos categorizados por tecnología (Python, HTML/CSS) con enlaces a GitHub y demostraciones en vivo.<br>
 -Habilidades: Enumeración de conocimientos técnicos y blandos.<br>
 -Contacto: Información de contacto y enlaces a redes sociales.<br>
+-Testimonios: Ejemplos de como se verían los testimonios de la gente.<br>
 
 Iconografía: Integración de Font Awesome para mejorar la experiencia visual con iconos relevantes.
 Tecnologías Utilizadas
