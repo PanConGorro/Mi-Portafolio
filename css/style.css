@@ -329,7 +329,7 @@ section ul{
     font-size: 1.1rem;
     font-weight: bold;
     cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2 ease;
+    transition: background-color 0.3s ease, transform 0.2s ease;
     align-self: center;
     width: auto;
 }
@@ -364,7 +364,7 @@ section ul{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    transform: 0.2 ease;
+    transform: 0.2s ease;
 }
 
 .testimonio:hover{
